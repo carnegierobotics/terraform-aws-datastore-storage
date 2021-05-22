@@ -1,0 +1,51 @@
+---
+#
+# This is the canonical configuration for the `README.md`
+# Run `make readme` to rebuild the `README.md`
+#
+
+# Name of this project
+name: terraform-aws-datastore-storage
+
+# Logo for this project
+#logo: docs/logo.png
+
+# License of this project
+#license: "APACHE2"
+
+# Canonical GitHub repo
+github_repo: carnegierobotics/terraform-aws-datastore-storage
+
+# Badges to display
+#badges:
+#  - name: "Codefresh Build Status"
+#    image: "https://g.codefresh.io/api/badges/pipeline/cloudposse/terraform-modules%2Fterraform-aws-ecs-alb-service-task?type=cf-1"
+#    url: "https://g.codefresh.io/public/accounts/cloudposse/pipelines/5db352c10c7c5a56af1de612"
+#  - name: "Latest Release"
+#    image: "https://img.shields.io/github/release/cloudposse/terraform-aws-ecs-alb-service-task.svg"
+#    url: "https://github.com/cloudposse/terraform-aws-ecs-alb-service-task/releases/latest"
+#  - name: "Slack Community"
+#    image: "https://slack.cloudposse.com/badge.svg"
+#    url: "https://slack.cloudposse.com"
+
+# Short description of this project
+description: |-
+  Terraform module for creating DataStore Storage infrastructure used for shared storage across other modules
+
+# How to use this project
+usage: |-
+
+  TODO
+
+# Other files to include in this README from the project folder
+include:
+  - "docs/targets.md"
+  - "docs/terraform.md"
+
+copyrights:
+  - name: "Cloud Posse, LLC"
+    url: "https://cpco.io/copyright"
+    year: "2017"
+  - name: "Carnegie Robotics, LLC"
+    url: "https://carnegierobotics.com/"
+    year: "2021"
