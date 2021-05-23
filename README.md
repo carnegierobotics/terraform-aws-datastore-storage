@@ -64,11 +64,10 @@ Available targets:
 
 | Name | Version |
 |------|---------|
-| <a name="requirement_terraform"></a> [terraform](#requirement\_terraform) | ~> 0.14.0 |
+| <a name="requirement_terraform"></a> [terraform](#requirement\_terraform) | ~> 0.13.0 |
 | <a name="requirement_aws"></a> [aws](#requirement\_aws) | ~> 3.32 |
 | <a name="requirement_external"></a> [external](#requirement\_external) | ~> 2.1 |
 | <a name="requirement_http"></a> [http](#requirement\_http) | ~> 2.0 |
-| <a name="requirement_local"></a> [local](#requirement\_local) | ~> 2.0 |
 | <a name="requirement_template"></a> [template](#requirement\_template) | ~> 2.2 |
 | <a name="requirement_utils"></a> [utils](#requirement\_utils) | ~> 0.3 |
 
