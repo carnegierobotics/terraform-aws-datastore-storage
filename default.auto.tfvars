@@ -18,4 +18,4 @@ admin_user = "admin"
 
 admin_password = "admin_password"
 
-db_name = "test_db"
+db_name = "default_db"
