@@ -36,7 +36,7 @@ variable "cluster_size" {
 variable "admin_user" {
   type        = string
   description = "(Required unless a snapshot_identifier is provided) Username for the master DB user"
-  default     = "admin"
+  default     = "admin_user"
 }
 
 variable "admin_password" {
